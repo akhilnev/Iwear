@@ -3,6 +3,7 @@
 - Changed initial Background Color + Label orientation
 - Implemented logic to change background color on clicking a button
 - On clicking the same button text color for a label also changed
+- GIF is linked here : https://imgur.com/a/gmsKJpe.gif
 
 
 ## AppBrainStorming (Further coming up Apps)
