@@ -10,22 +10,22 @@
 
 ## Apps with features I think are amazing
 
-# 1.Snapchat
+## 1.Snapchat
 - Streak feature which keeps track of how constantly are you in touch with the other person
 - Messages are deleted automatically unless setting is changed
 - Best Friends list and emoji's Associated with it
 
-# 2.Linkedin
+## 2.Linkedin
 - Find all possibles jobs available from internships to new grad to experienced roles
 - One companies can post multiple jobs and a candidate can apply to multiple roles ( with option to apply on the app or directy on the websit
 - Linkedin Learning and courses specific to school or community
 
-# 3. Tinder
+## 3. Tinder
 - Swiping for the person you like or dislike
 - Short and quick description of the person with photos
 - Superlike or inbuilt messaging feature
 
-# 4. WhatsApp
+## 4. WhatsApp
 - Simple and easy to adjust UI
 - Easy to get used to for all age groups
 - Can Call another person online without any cost, and brilliant quality for the same
