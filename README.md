@@ -6,7 +6,7 @@
 - GIF is linked here : https://imgur.com/a/gmsKJpe.gif
 
 
-## AppBrainStorming (Further coming up Apps)
+## AppBrainStorming
 
 ## Apps with features I think are amazing
 
